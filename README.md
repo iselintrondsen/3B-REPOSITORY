@@ -7,7 +7,7 @@
 |Iselin Trondsen|https://github.com/iselintrondsen/IND-repository.git|
 |Samuel Systad|https://github.com/samuelsystad/IND-REPOSITORY.git|
 |Casper Doviken|Https://github.com/Cashdoww/Cashdoww.git|
-
+:)
 Gruppe evaluering
 
 Hvordan var prosessen
