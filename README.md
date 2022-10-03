@@ -35,6 +35,7 @@ cssflagg ved bruk av P elementet og attributtene “id” eller “class” (beg
 canvasflagg ved bruk av <canvas>-elementet (Canvas API - Web APIs | MDN 
 
 Beskrivelse av prosessen for valg av relevante arbeidsoppgaver:
+
 Vi delte ut ansvaret over github til den som hadde litt erfaring og vi følte mestret det mer enn de andre. Den personen tok litt ansvar for å lære de andre, samtidig som alle sammen prøvde seg på oppgaven alene, i tillegg til at vi jobbet med den i gruppa. Vi sa oss ferdig når alle følte de noenlunde mestret å lage flagg ved bruk av alle tre metodene.
   
   
