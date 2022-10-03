@@ -70,7 +70,9 @@ Samuel: P element syntes jeg var den enkleste og mest forståelig metoden å lag
 
 
 Victoria:
-
+P-element blir vanligvis brukt for å legge inn tekst/paragrafer på nettsider, det gjorde det vanskeligere å legge forskjellige elementer oppå hverandre og mindre muligheter for styling enn de andre metodene. Det er også en ulempe at man ikke kan kode flere typer flagg med denne metoden.
+Css var enkelt å bruke. Synes denne metoden var litt mer ryddig fordi man hadde all stylingen i en egen css-fil. Valgte å bruke "id" for å skille mellom elementene fordi det er denne metoden jeg kjenner best fra før av. 
+Canvas var den metoden jeg slet mest med. Når jeg prøvde å bruke metoden som stod i boka kom ingenting opp på siden, og jeg fant heller ikke ut hva feilen var. Endte opp med å bruke en annen metode med canvas som jeg lærte fra en annen på gruppa. Forstår fortsatt ikke helt hvordan man bruker canvas element med javascript.
 
 Iselin:
 
