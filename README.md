@@ -23,8 +23,10 @@ Casper: 2
 Samuel: 1-2
 Kristian: 2  
 
+
 Flaggoppgave: 
 iselintrondsen.github.io
+
 
 De ulike metodene 
 
@@ -33,6 +35,7 @@ pflagg P elementet og attributten “style” direkte i P elementet (det skal v�
 cssflagg ved bruk av P elementet og attributtene “id” eller “class” (begrunn valget) i P-elementet (gjelder samme som for punktet a), dvs. justert i midten horisontalt og har en avstand mellom flaggene; denne løsningen lages i en egen HTML-fil med navn cssflagg.html; CSS stilark defineres i HTML-filen (dvs. ikke i egen fil, som er inkludert i HTML Head-elementet med <link rel="stylesheet" href="FILNAVN.css" />) 
 
 canvasflagg ved bruk av <canvas>-elementet (Canvas API - Web APIs | MDN 
+  
 
 Beskrivelse av prosessen for valg av relevante arbeidsoppgaver:
 
@@ -46,8 +49,7 @@ Når alle var ferdig så skrev sto det «done» på alle. Vi valgte den metoden 
 og det var den metoden sa ga oss mest oversikt. 
 
   
- Våre tanker og meninger om oppgaven.
-
+Våre tanker og meninger om oppgaven.
   
 Casper: Bruken av P element og bruk av “style” var den enkleste syntes jeg, den er veldig a4 sånn som den er ment til å være, men kodingen gikk ganske enkelt å lære. Eneste ulempen med P element er at det er paragraf, så du har mindre muligheter for endringer og frihet. Css ved bruk av P element og bruk av class, var også grei. Du kan enten velge å ha justeringer i et annet html dokument eller ikke som gjør det enkelt å lage et oppsett du kan lett implementere i koden. Canvas var den som tok lengst tid å forstå, men bruken av den er ganske grei, ved å lage ferdig definisjoner i et annet dokument til hvordan spesifikke ting skal se ut. Dette er igjen enkelt å putte rett inn i koden. 
 
@@ -59,3 +61,5 @@ Pflagg metoden var kanskje den "enkleste" av de tre metodene. Fordelen med pflag
 Cssflagg metoden synes jeg var litt vanskeligere da oppsettet til metoden var mye mer avansert, og jeg måtte skrive på nytt flere ganger før jeg fikk det helt til. Fordelen med denne metoden er at man kunne lage litt mer spesielle flagg. 
   
 Canvasflagg metoden var den jeg måtte søke mest om på nette for å forstå. Denne metoden var kanskje vanskeligst da jeg måtte prøve å feile mye selv før jeg fikk det til. Fordelen var at jeg ble ganske kjent med denne metoden og lærte mye av det.
+
+Kristian: Jeg syntes P metoden var den som var mest forståelig, og de jeg ble kjent med best. Men den var også den metoden jeg følte var best egnet til å lage flagg. CSS metoden var litt lettere enn P metoden, men fortsatt ikke helt egnet til å lage flagg etter min mening. Canvas metoden var den som var vanskeligst å forstå, men definitivt den som var best egnet til å lage flagg.
