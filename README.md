@@ -30,7 +30,7 @@ De ulike metodene
 
 pflagg P elementet og attributten “style” direkte i P elementet (det skal være avstand mellom flaggene og de skal være juster i midten horisontalt); OBS! flere typer flagg vil det ikke være mulig å produsere på denne måten (reflekter i README.md); denne løsningen lages i en egen HTML-fil med navn pflagg.html 
 
-cssflagg ved bruk av <p>-elementet og attributtene “id” eller “class” (begrunn valget) i P-elementet (gjelder samme som for punktet a), dvs. justert i midten horisontalt og har en avstand mellom flaggene; denne løsningen lages i en egen HTML-fil med navn cssflagg.html; CSS stilark defineres i HTML-filen (dvs. ikke i egen fil, som er inkludert i HTML <head>-elementet med <link rel="stylesheet" href="FILNAVN.css" />) 
+cssflagg ved bruk av P elementet og attributtene “id” eller “class” (begrunn valget) i P-elementet (gjelder samme som for punktet a), dvs. justert i midten horisontalt og har en avstand mellom flaggene; denne løsningen lages i en egen HTML-fil med navn cssflagg.html; CSS stilark defineres i HTML-filen (dvs. ikke i egen fil, som er inkludert i HTML Head-elementet med <link rel="stylesheet" href="FILNAVN.css" />) 
 
 canvasflagg ved bruk av <canvas>-elementet (Canvas API - Web APIs | MDN 
   
