@@ -34,17 +34,18 @@ cssflagg ved bruk av P elementet og attributtene “id” eller “class” (beg
 
 canvasflagg ved bruk av <canvas>-elementet (Canvas API - Web APIs | MDN 
 
-
-Beskrivelse av prosessen for valg av “Github projects”:
-
-På Github projects valgte vi å bruke strukturen «board» for å strukturere oppgaven. Her delte vi opp oppgavene til hver, alle på gruppa skulle lage tre flagg på hver metode. Når alle var ferdig så skrev sto det «done» på alle. Vi valgte den metoden da den ga mest struktur og det var den metoden sa ga oss mest oversikt. 
-
 Beskrivelse av prosessen for valg av relevante arbeidsoppgaver:
 
 Vi delte ut ansvaret over github til den som hadde litt erfaring og vi følte mestret det mer enn de andre. Den personen tok litt ansvar for å lære de andre, samtidig som alle sammen prøvde seg på oppgaven alene, i tillegg til at vi jobbet med den i gruppa. Vi sa oss ferdig når alle følte de noenlunde mestret å lage flagg ved bruk av alle tre metodene.
   
   
-Våre tanker og meninger om oppgaven.
+Beskrivelse av prosessen for valg av “Github projects” og mal for prosjektadministrasjon: 
+Her delte vi opp oppgavene til hver, alle på gruppa skulle lage tre flagg på hver metode.
+Når alle var ferdig så skrev sto det «done» på alle. Vi valgte den metoden da den ga mest struktur 
+og det var den metoden sa ga oss mest oversikt. 
+
+  
+ Våre tanker og meninger om oppgaven.
 
   
 Casper: Bruken av P element og bruk av “style” var den enkleste syntes jeg, den er veldig a4 sånn som den er ment til å være, men kodingen gikk ganske enkelt å lære. Eneste ulempen med P element er at det er paragraf, så du har mindre muligheter for endringer og frihet. Css ved bruk av P element og bruk av class, var også grei. Du kan enten velge å ha justeringer i et annet html dokument eller ikke som gjør det enkelt å lage et oppsett du kan lett implementere i koden. Canvas var den som tok lengst tid å forstå, men bruken av den er ganske grei, ved å lage ferdig definisjoner i et annet dokument til hvordan spesifikke ting skal se ut. Dette er igjen enkelt å putte rett inn i koden. 
