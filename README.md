@@ -66,7 +66,7 @@ Canvasflagg metoden var den jeg måtte søke mest om på nette for å forstå. D
 Kristian: Jeg syntes P metoden var den som var mest forståelig, og de jeg ble kjent med best. Men den var også den metoden jeg følte var best egnet til å lage flagg. CSS metoden var litt lettere enn P metoden, men fortsatt ikke helt egnet til å lage flagg etter min mening. Canvas metoden var den som var vanskeligst å forstå, men definitivt den som var best egnet til å lage flagg.
 
 
-Samuel: P element syntes jeg var den enkleste og mest forståelig metoden å lage flagg på. P metoden var den jeg ble mest kjent med og følte at jeg mestret best. Eneste ulempen med P er at den har noen begrensninger. CSS metoden var også en grei måte å løse oppgaven på. Den var nok litt mer avansert enn P style metoden. CSS metoden har flere muligheter og funksjoner enn P style metoden. Canvas metoden er den som tok lengst tid å sette seg inn i. Slet litt med i starten, men etter litt research forsto jeg litt mer. Canvas metoden er nok metoden med flest muligheter
+Samuel: P element syntes jeg var den enkleste og mest forståelig metoden å lage flagg på. P metoden var den jeg ble mest kjent med og følte at jeg mestret best. Eneste ulempen med P er at den har noen begrensninger. CSS metoden var også en grei måte å løse oppgaven på. Den var nok litt mer avansert enn P style metoden. CSS metoden har flere muligheter og funksjoner enn P style metoden. Canvas metoden er den som tok lengst tid å sette seg inn i. Slet litt med i starten, men etter litt research forsto jeg litt mer. Canvas metoden er nok metoden med flest muligheter.
 
 
 Victoria:
