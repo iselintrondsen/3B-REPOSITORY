@@ -47,5 +47,7 @@ Casper: Bruken av P element og bruk av “style” var den enkleste syntes jeg, 
 
 Amanda: Generelt synes jeg oppgaven var litt vanskelig å forstå, men etter å ha snakket og diskutert med gruppa så forstod jeg mye mer. Det var likevel mye prøving og feiling for å få til alle flaggene.
 Pflagg metoden var kanskje den "enkleste" av de tre metodene. Fordelen med pflagg metoden er at jeg synes oppsettet var lettest å huske og hadde mest sammenheng. Eneste ulempen var at man kunne ikke lage alle flagg med denne metoden 
+  
 Cssflagg metoden synes jeg var litt vanskeligere da oppsettet til metoden var mye mer avansert, og jeg måtte skrive på nytt flere ganger før jeg fikk det helt til. Fordelen med denne metoden er at man kunne lage litt mer spesielle flagg. 
+  
 Canvasflagg metoden var den jeg måtte søke mest om på nette for å forstå. Denne metoden var kanskje vanskeligst da jeg måtte prøve å feile mye selv før jeg fikk det til. Fordelen var at jeg ble ganske kjent med denne metoden og lærte mye av det.
