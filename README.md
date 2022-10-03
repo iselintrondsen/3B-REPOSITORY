@@ -24,7 +24,7 @@ Samuel: 1-2
 Kristian: 2  
 
 Flaggoppgave
-
+iselintrondsen.github.io
 
 De ulike metodene 
 
