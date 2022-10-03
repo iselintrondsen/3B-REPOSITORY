@@ -49,7 +49,7 @@ Når alle var ferdig så skrev sto det «done» på alle. Vi valgte den metoden 
 og det var den metoden sa ga oss mest oversikt. 
 
   
-Våre tanker og meninger om oppgaven.
+Beskrivelse i tillegg til våre tanker og meninger om oppgaven.
   
 Casper: Bruken av P element og bruk av “style” var den enkleste syntes jeg, den er veldig a4 sånn som den er ment til å være, men kodingen gikk ganske enkelt å lære. Eneste ulempen med P element er at det er paragraf, så du har mindre muligheter for endringer og frihet. Css ved bruk av P element og bruk av class, var også grei. Du kan enten velge å ha justeringer i et annet html dokument eller ikke som gjør det enkelt å lage et oppsett du kan lett implementere i koden. Canvas var den som tok lengst tid å forstå, men bruken av den er ganske grei, ved å lage ferdig definisjoner i et annet dokument til hvordan spesifikke ting skal se ut. Dette er igjen enkelt å putte rett inn i koden. 
 
