@@ -91,7 +91,7 @@ Ved utviklingen av flagg med metodene inline og internal css, ble flaggene helt 
 Ved internal css i head section ble filen større (3kb) enn filen med inline styling (2kb), det er på grunn av det høye antallet linjer som blir ved å style på denne måten, du kan velge å droppe ny linje. Men da blir koden noe vanskligere å lese. 
 Dette la jeg merke til ved inline styling, når alle verdiene kom på samme linje. Koden var riktig nok oversiktlig, men som sagt litt vanskeligere å lese, synes jeg. På grunn av at noen av flaggene hadde hvit stripe øverst eller nederst la jeg inn, en border for å tydligere avgrense flaggene. Deretter noe skygge rundt hvert flagg kun for synets skyld. 
 
-
+Canvas er ett nytt element i HTML5. Dette er et godt verktøy for å lage dynamiske wedsider. Canvas elementet er i utgangspunktet et hvit rektangel som du ikke kan se mot den hvite bakgrunnen. Derfor kan du bruke css til å lage en kant rundt rektangelet og evt en bakgrunsfarge til rektangelets body. På denne måten vil canvas bli synlig i nettleseren. I oppgaven brukte jeg javascript med context variabelen. Jeg satt den totale dimensjonen til canvas ved hjelp av CSS til width 300, hight 150. Deretter brukte jeg "fillRect" metoden og tegnet 3 rektangler under hverandre. Ved bruk av "fillStyle" kunne jeg legge til ulike farger på de rektanglene jeg nettopp hadde tegnet. For å fylle canvas måtte jeg bruke matte og dele rektangelet inn i tre deler, fordi det er slik flagget er konstruert.  
 
   
   
