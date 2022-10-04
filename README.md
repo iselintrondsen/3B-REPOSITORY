@@ -28,7 +28,7 @@ canvasflagg ved bruk av <canvas>-elementet - canvasflagg.html
 
 Beskrivelse av prosessen for valg av relevante arbeidsoppgaver:
 
-Vi delte ut ansvaret over github til den som hadde litt erfaring og vi følte mestret det mer enn de andre. Den personen tok litt ansvar for å lære de andre, samtidig som alle sammen prøvde seg på oppgaven alene, i tillegg til at vi jobbet med den i gruppa. Vi sa oss ferdig når alle følte de noenlunde mestret å lage flagg ved bruk av alle tre metodene.
+Vi delte ut ansvaret med github til den som hadde litt erfaring og vi følte mestret det mer enn de andre. Den personen tok litt ansvar for å lære de andre, samtidig som alle sammen prøvde seg på oppgaven alene, i tillegg til at vi jobbet med den i gruppa. Vi sa oss ferdig når alle følte de noenlunde mestret å lage flagg ved bruk av alle tre metodene.
   
   
 Beskrivelse av prosessen for valg av “Github projects” og mal for prosjektadministrasjon:
@@ -76,7 +76,23 @@ Css var enkelt å bruke. Synes denne metoden var litt mer ryddig fordi man hadde
 Canvas var den metoden jeg slet mest med. Når jeg prøvde å bruke metoden som stod i boka kom ingenting opp på siden, og jeg fant heller ikke ut hva feilen var. Endte opp med å bruke en annen metode med canvas som jeg lærte fra en annen på gruppa. Forstår fortsatt ikke helt hvordan man bruker canvas element med javascript.
 
 Iselin:
- 
+
+P flagg metoden bruker inline styling, denne metoden har høyest prioritet. Derfor blir styling skrevet internal eller external overskrevet av inline styles. Ved denne metoden ligger stylingen i body section i HTML.filen. 
+  
+Css flagg metoden bruker internal styling, denne metoden kommer som nummer to på prioritets listen og overskriver eventuelle eksterne stilark. Her ligger stylingen i head section i HTML.filen. 
+  
+Eksterne stilark har siste prioritet, hvis HTML.filen ikke inneholder hverken inline eller internal styles, vil et eksternt css stilark gjelde. 
+  
+En annen forskjell mellom inline CSS og eksternt stilarks er at inline CSS blir behandlet fortere fordi det kun krever at nettleseren laster ned en fil, i motsetning til ekstern CSS hvor nettleseren må laste ned HTML og CSS filer separat. 
+
+I denne oppgaven blir vi bedt om å ikke bruke ett eksternt stilark. 
+  
+Ved utviklingen av flagg med metodene inline og internal css, ble flaggene helt like. Kun oppsettet på koden er ulikt, altså hvor stylingen er plassert. 
+Ved internal css i head section ble filen større (3kb) enn filen med inline styling (2kb), det er på grunn av det høye antallet linjer som blir ved å style på denne måten, du kan velge å droppe ny linje. Men da blir koden noe vanskligere å lese. 
+Dette la jeg merke til ved inline styling, når alle verdiene kom på samme linje. Koden var riktig nok oversiktlig, men som sagt litt vanskeligere å lese, synes jeg. På grunn av at noen av flaggene hadde hvit stripe øverst eller nederst la jeg inn, en border for å tydligere avgrense flaggene. Deretter noe skygge rundt hvert flagg kun for synets skyld. 
+
+
+
   
   
   
@@ -95,4 +111,4 @@ GitHub Pages. (2022). GitHub Pages. https://pages.github.com/Lenker til en ekste
 
 Wikipedia Contributors. (2022, September 20). Liste med flagg. Wikipedia; Wikimedia Foundation. https://en.wikipedia.org/wiki/List_of_flags_by_color til en ekstern side. 
 
-
+Javascript. Svekis Laurence Lars Svekis, Putten Maaike van Putten, Percival Rob Percival (2021) JavaScript from Beginner to Professional 
