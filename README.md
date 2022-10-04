@@ -7,34 +7,23 @@
 |Iselin Trondsen|https://github.com/iselintrondsen/IND-repository.git|
 |Samuel Systad|https://github.com/samuelsystad/IND-REPOSITORY.git|
 |Casper Doviken|Https://github.com/Cashdoww/Cashdoww.git|
-:)
-Gruppe evaluering
+  
 
-Hvordan var prosessen
-Vi strever med å lære oss git og github, vi forstår lite av hva vi gjør. Spesielt via terminalen,
-i tilegg har noen mac og noen windows og sliter derfor med å hjelpe hverandre. Vi håper vi skal lære mer 
-om dette i forelesning. 
-
-Selv evaluering 
-Iselin: 3
-Amanda: 2
-Victoria: 2
-Casper: 2
-Samuel: 1-2
-Kristian: 2  
-
-
-Flaggoppgave: 
-iselintrondsen.github.io
+Flaggoppgave Github Pages: 
+https://iselintrondsen.github.io/3B-REPOSITORY/
 
 
 De ulike metodene 
 
-pflagg P elementet og attributten “style” direkte i P elementet (det skal være avstand mellom flaggene og de skal være juster i midten horisontalt); OBS! flere typer flagg vil det ikke være mulig å produsere på denne måten (reflekter i README.md); denne løsningen lages i en egen HTML-fil med navn pflagg.html 
+pflagg P elementet og attributten “style” direkte i P elementet - pflagg.html 
 
-cssflagg ved bruk av P elementet og attributtene “id” eller “class” (begrunn valget) i P-elementet (gjelder samme som for punktet a), dvs. justert i midten horisontalt og har en avstand mellom flaggene; denne løsningen lages i en egen HTML-fil med navn cssflagg.html; CSS stilark defineres i HTML-filen (dvs. ikke i egen fil, som er inkludert i HTML Head-elementet med <link rel="stylesheet" href="FILNAVN.css" />) 
+cssflagg ved bruk av P elementet og attributtene “id” eller “class” -  cssflagg.html
 
-canvasflagg ved bruk av <canvas>-elementet (Canvas API - Web APIs | MDN 
+Vi valgte å bruke "class" attributt. Forskjellen mellom id og class er at id er unik og kan bare brukes til ett element. I mens class attributt kan brukes til flere elementer. Dette var nyttig når vi kodet 3 flagg i hver fil, da inneholdt noen av flaggene samme farge og vi trengte bare å nevne eks .white en gang for å legge til riktig farge. Grunnen til at vi har laget 3 ulike flagg i hver fil, på samme metode. Er fordi vi mente oppgaven kunne tolkes i den retning, og det ville være en god øvelse. Skulle vi kun laget ett flagg ville det vært utbetydlig om vi valgte ID eller class. Da fargen uansett bare ville vært nevnt en gang. 
+
+canvasflagg ved bruk av <canvas>-elementet - canvasflagg.html
+
+
   
 
 Beskrivelse av prosessen for valg av relevante arbeidsoppgaver:
@@ -44,9 +33,21 @@ Vi delte ut ansvaret over github til den som hadde litt erfaring og vi følte me
   
 Beskrivelse av prosessen for valg av “Github projects” og mal for prosjektadministrasjon:
   
-Her delte vi opp oppgavene til hver, alle på gruppa skulle lage tre flagg på hver metode.
-Når alle var ferdig så skrev sto det «done» på alle. Vi valgte den metoden da den ga mest struktur 
-og det var den metoden sa ga oss mest oversikt. 
+På github projects valgte vi malen "bord", fordi den så oversiktlig ut. Og er ett godt utgangspunkt for Kanban prosjekt nedbryting metoden. Her katergoriserte vi oppgaven vår i "to do, in progress, done". Da var det oversiktlig for alle deltagerene i prosjektet. Gruppen vår består av 6 personer, og kanban metoden fungerte bra til å stukturere de forskjellige arbeidsoppgavene.   
+Her delte vi opp oppgavene til hver og en, alle på gruppa skulle lage tre flagg på hver metode. Dette for at alle skulle lære de 3 metodene for utvikling av flagg i html med css og javascript.  
+
+ Arbeidsoppgaver:
+ 1. Sette opp github pages i gruppe repository
+ 2. Alle lager 3 filer hver med navn pflagg.html, cssflagg.html, canvasflagg.html
+ 3. Diskuter hvilke flagg som skal utvikles
+ 4. Implementer kode
+ 5. Testing av kode 
+ 6. Legge de tre filene i root-mappen til github pages
+ 7. Ferdigstilling av index filen i github pages 
+ 8. Testing av index.html
+ 10. Ferdigstille readme.md 
+ 
+
 
   
 Beskrivelse i tillegg til våre tanker og meninger om oppgaven.
@@ -60,7 +61,7 @@ Pflagg metoden var kanskje den "enkleste" av de tre metodene. Fordelen med pflag
   
 Cssflagg metoden synes jeg var litt vanskeligere da oppsettet til metoden var mye mer avansert, og jeg måtte skrive på nytt flere ganger før jeg fikk det helt til. Fordelen med denne metoden er at man kunne lage litt mer spesielle flagg. 
   
-Canvasflagg metoden var den jeg måtte søke mest om på nette for å forstå. Denne metoden var kanskje vanskeligst da jeg måtte prøve å feile mye selv før jeg fikk det til. Fordelen var at jeg ble ganske kjent med denne metoden og lærte mye av det.
+Canvasflagg metoden var den jeg måtte søke mest om på nett for å forstå. Denne metoden var kanskje vanskeligst da jeg måtte prøve å feile mye selv før jeg fikk det til. Fordelen var at jeg ble ganske kjent med denne metoden og lærte mye av det.
 
 
 Kristian: Jeg syntes P metoden var den som var mest forståelig, og de jeg ble kjent med best. Men den var også den metoden jeg følte var best egnet til å lage flagg. CSS metoden var litt lettere enn P metoden, men fortsatt ikke helt egnet til å lage flagg etter min mening. Canvas metoden var den som var vanskeligst å forstå, men definitivt den som var best egnet til å lage flagg.
@@ -75,4 +76,23 @@ Css var enkelt å bruke. Synes denne metoden var litt mer ryddig fordi man hadde
 Canvas var den metoden jeg slet mest med. Når jeg prøvde å bruke metoden som stod i boka kom ingenting opp på siden, og jeg fant heller ikke ut hva feilen var. Endte opp med å bruke en annen metode med canvas som jeg lærte fra en annen på gruppa. Forstår fortsatt ikke helt hvordan man bruker canvas element med javascript.
 
 Iselin:
+ 
+  
+  
+  
+Kilder:
+Github Prosjekt. GitHub Docs. (2022). GitHub Docs. https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boardsLenker til en ekstern side. 
+
+Github Prosjekt. GitHub Docs. (2022). GitHub Docs. https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projectsLenker til en ekstern side. 
+
+Canvas API. (2022, September 2). Mozilla.org. https://developer.mozilla.org/en-US/docs/Web/API/Canvas_APILenker til en ekstern side.
+  
+HTML forklaring. (2022). Mozilla.org https://developer.mozilla.org/en-US/docs/Web/CSS til en ekstern side.
+  
+CSS forklaring. (2022). Mozilla.org https://developer.mozilla.org/en-US/docs/Web/HTML til en ekstern side. 
+
+GitHub Pages. (2022). GitHub Pages. https://pages.github.com/Lenker til en ekstern side. 
+
+Wikipedia Contributors. (2022, September 20). Liste med flagg. Wikipedia; Wikimedia Foundation. https://en.wikipedia.org/wiki/List_of_flags_by_color til en ekstern side. 
+
 
