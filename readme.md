@@ -1,4 +1,4 @@
-# GRUPPE-3B-REPOSITORY
+# GRUPPE-3B-FLAGGOPPGAVE
 |NAVN|LINK|
 |----|----|
 |Amanda Fiona|https://github.com/Amandafiona/IND-REPOSITORY.git|
